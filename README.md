@@ -12,6 +12,29 @@
 <img width="393" height="720" alt="flutter_chats_ui_showcase" src="https://github.com/user-attachments/assets/8b0f4f47-1d5a-4331-8bb4-38763fb67a6a" />
 
 
+## 💻 Desktop Demo (Windows)
+
+You can try a ready-to-run Windows demo of the chat UI:
+
+👉 **Download Demo (.exe)**  
+https://github.com/Brah-Timo/flutter_chats-ui/releases/tag/untagged-eefa7c5889d1fa5ca488
+
+> File: `chat_demo.exe`
+
+### How to run
+
+1. Download the `.exe` file from the link above  
+2. Double-click to launch  
+3. No installation required
+
+### Notes
+
+- Built with Flutter Windows
+- Uses in-memory transport for demo purposes
+- No backend required
+
+---
+
 
 
 ## Features
