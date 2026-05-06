@@ -9,6 +9,13 @@
 
 ---
 
+<img width="393" height="720" alt="flutter_chats_ui_showcase" src="https://github.com/user-attachments/assets/8b0f4f47-1d5a-4331-8bb4-38763fb67a6a" />
+
+
+
+
+
+
 ## Features
 
 | Feature | Details |
