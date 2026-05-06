@@ -113,12 +113,15 @@ class _MyChatPageState extends State<MyChatPage> {
 
 <img width="395" height="742" alt="1" src="https://github.com/user-attachments/assets/d06ada07-dd8e-4e68-9c9c-26ffdf9672c4" />
 
+---
 
 <img width="395" height="742" alt="8" src="https://github.com/user-attachments/assets/afcd0cf5-c982-4686-8eeb-7985ec44dee0" />
 
+---
 
 <img width="395" height="742" alt="7" src="https://github.com/user-attachments/assets/449b1a47-8a04-4062-b91b-d89b160ce99d" />
 
+---
 
 <img width="395" height="742" alt="6" src="https://github.com/user-attachments/assets/082bbc74-2f24-4d59-ae55-0ef227e29ea6" />
 
